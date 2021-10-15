@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+#verde 
+{
+	background-color: #58a749;
+	color: white;
+}
+
+.ocultar {
+    display: none;
+}
+ 
+.mostrar {
+    display: block;
+}
+
+.sidebar-menu {
+    left: 0px;
+    top: auto !important;
+}
+
+#perfil{
+	margin-right: 10px;
+}
+
+.alert{
+    display: none;
+}

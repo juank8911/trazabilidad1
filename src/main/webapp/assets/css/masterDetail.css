@@ -1,0 +1,88 @@
+#dTabla
+{
+	text-align: center;
+}
+#dTabla th
+{
+	background-color: #58a749;
+	color: white;
+	
+}
+
+textarea {
+  resize: none;
+}
+
+.tbSales tr td:nth-child(2)
+{
+	text-align: center;
+}
+
+tbody {
+	background-color: white;
+}
+
+tbody #res
+{
+	border-bottom: 15px solid white;
+}
+
+#tbSales, .tbItems {
+	width: 100%;
+	border: solid 1px;
+}
+
+#tbSales thead th, .tbItems thead th {
+	text-align: center;
+}
+
+#tbSales tr td, .tbItems tr td {
+	border: solid 1px;
+}
+
+
+.tbSales tbody tr {
+	
+	background-color:white;
+}
+
+.tbItems tr {
+	background:white;
+}
+
+#tbSales thead {
+	background: #58a749;
+}
+
+#mrg{
+	outline:none;
+}
+
+#btons
+{
+	text-align: center;
+}
+
+#thcheck {
+	width: 10px; 
+	text-align: center;
+}
+
+#despl{
+	width: 20px; 
+}
+
+.itemsRow {
+	display: none;
+	
+}
+
+
+.tbItems {
+	font-size: 12px;
+}
+
+.labels
+{
+	color: white;
+}

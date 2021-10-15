@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+.custom-checkbox .custom-control-input:checked~.custom-control-label::after {
+    background-color: #58a749;
+}
+
+.checkbox-lg .custom-control-label::before, 
+.checkbox-lg .custom-control-label::after {
+  top: .8rem;
+  width: 1.55rem;
+  height: 1.55rem;
+}
+
+.checkbox-lg .custom-control-label {
+  padding-top: 13px;
+  padding-left: 6px;
+}
+
+
+.checkbox-xl .custom-control-label::before, 
+.checkbox-xl .custom-control-label::after {
+  top: 1.2rem;
+  width: 1.85rem;
+  height: 1.85rem;
+}
+
+.checkbox-xl .custom-control-label {
+  padding-top: 19px;
+  padding-left: 9px;
+  padding-right: 20px;
+}
+
+.h2, h2 {
+    font-size: 1.5rem;
+}
